@@ -1,0 +1,13 @@
+{
+"name": "VirtualGaming",
+"description": "For us.",
+"version": "0.0.0",
+"main": "Virtual-Gaming Bot.py",
+"scripts": {
+"start": "node bot.js"
+},
+"dependencies": {
+"discord.js": "11.1.0",
+"request": "2.81.0"
+}
+}
