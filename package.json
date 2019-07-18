@@ -4,7 +4,7 @@
 "version": "0.0.0",
 "main": "Virtual-Gaming Bot.py",
 "scripts": {
-"start": "node bot.js"
+"start": "node Virtual-Gaming Bot.py"
 },
 "dependencies": {
 "discord.js": "11.1.0",
